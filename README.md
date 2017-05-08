@@ -14,3 +14,5 @@ To play around with the visualization in your browser, simply run
 ```
 $ bokeh serve --show least_squares_visualization.py
 ```
+
+![least_squares_visualization](https://cloud.githubusercontent.com/assets/6171989/25815519/10765838-3421-11e7-82ef-42e8b3e02ba8.PNG)
